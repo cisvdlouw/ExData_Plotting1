@@ -1,3 +1,5 @@
+##Assumes data is loaded and prepared using the LoadinData.R script also provided
+
 ##Open .png graphics
 png(filename = "plot4.png")
 
